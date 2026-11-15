@@ -71,15 +71,18 @@ div {
 
 nav {
     text-align: center;
-    margin: 30px 0px 0px 0px;
+    width: 90%;
+    max-width: 800px;
+    margin: 25px auto 0px auto;
     position: sticky;
     top: 0;
     background-color: #f4f6f8;
-    padding: 10px 4px;
+    padding: 10px 0px;
     z-index: 1000;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    box-sizing: border-box;
 }
 
 nav a {
@@ -222,6 +225,10 @@ section[id] {
     header, .card {
         width: 94%;
         padding: 18px;
+    }
+
+    nav {
+        width: 94%;
     }
 
     h1 {
