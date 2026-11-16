@@ -14,4 +14,4 @@
 
 ## Objective
 
-I aimed to create a simple and neat Personal Resume Website. The objective of this project was to design a clean and structured CSS layout for the HTML personal resume website created during the HTML module. Building upon a foundational HTML structure, modern CSS concepts—including custom Google Fonts, a cohesive color palette, structured selectors, Flexbox layouts, sticky positioning, smooth anchor scrolling, and responsive media queries—were applied to create an accessible, visually appealing, and user-friendly digital portfolio.
+I aimed to create a simple and neat Personal Resume Website. The objective of this project was to design a clean and structured CSS layout for the HTML personal resume website created during the HTML module. Building upon a foundational HTML structure, modern CSS concepts including custom Google Fonts, a cohesive color palette, structured selectors, Flexbox layouts, sticky positioning, smooth anchor scrolling, and responsive media queries were applied to create an accessible, visually appealing, and user-friendly digital portfolio.
